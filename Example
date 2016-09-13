@@ -1,0 +1,19 @@
+
+The following shows and example python script that computes the area of a circle. The area of a circle is given by the formula area = pi * radius squared
+
+ 
+
+# assign the value 3.14 to the variable pi 
+pi = 3.14 
+
+# assign the value 8 to the variable radius 
+radius = 8 
+
+# assign the results of the operation to the variable area 
+# the operation multiplies radius by radius and then multiplies the result by 
+
+# the value of pi 
+area = pi * (radius * radius) 
+
+# print the value of area 
+print(area)
